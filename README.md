@@ -1,7 +1,7 @@
 Fortune algorithm project
 ==========
 
-![FortuneGif](gif/fortune.gif)
+![FortuneGif](gif/cropped_fortune.gif)
 
 ### Installing dependencies
 
