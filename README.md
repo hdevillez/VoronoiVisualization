@@ -1,5 +1,8 @@
 Fortune algorithm project
 ==========
+
+![FortuneGif](gif/fortune.gif)
+
 ### Installing dependencies
 
 `sudo apt-get install cmake xorg-dev libglu1-mesa-dev`
